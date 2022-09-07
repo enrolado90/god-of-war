@@ -233,7 +233,7 @@ footer > p {
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 350px) {
     #video{
         width: 250px;
     }
